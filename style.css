@@ -1,0 +1,41 @@
+/*css*/
+main {
+  background-color: lightblue; 
+}
+ 
+.nav-link {
+  font-size: x-large;
+}
+.footer {
+  color:lightgrey;
+  margin-top: 163px;
+}
+
+.footerPortfolio {
+  color:lightgrey;
+  margin-top: 480px;
+  font-size: medium;
+}
+
+.footerResume {
+  color:lightgrey;
+  margin-top: 480px;
+}
+
+.footerContact {
+  color:lightgrey;
+  margin-top: 6px;
+}
+
+a {
+  font-size: 20px;
+  color: lightgrey;
+  justify-content: center;
+  vertical-align: center;
+}
+
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
