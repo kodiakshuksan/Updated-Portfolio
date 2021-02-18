@@ -1,41 +1,41 @@
-/*css*/
 main {
-  background-color: lightblue; 
-}
- 
-.nav-link {
-  font-size: x-large;
-}
-.footer {
-  color:lightgrey;
-  margin-top: 163px;
-}
-
-.footerPortfolio {
-  color:lightgrey;
-  margin-top: 480px;
-  font-size: medium;
-}
-
-.footerResume {
-  color:lightgrey;
-  margin-top: 480px;
-}
-
-.footerContact {
-  color:lightgrey;
-  margin-top: 6px;
-}
-
-a {
-  font-size: 20px;
-  color: lightgrey;
-  justify-content: center;
-  vertical-align: center;
-}
-
-
-.responsive {
-  width: 100%;
-  height: auto;
-}
+    background-color: #f81285; 
+  }
+   
+  .nav-link {
+    font-size: x-large;
+  }
+  
+  .footer {
+    color: white;
+    margin-top: 163px;
+  }
+  
+  .footerPortfolio {
+    color: white;
+    margin-top: 480px;
+    font-size: medium;
+  }
+  
+  .footerResume {
+    color: white;
+    margin-top: 480px;
+  }
+  
+  .footerContact {
+    color: white;
+    margin-top: 6px;
+  }
+  
+  a {
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+    vertical-align: center;
+  }
+  
+  
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
