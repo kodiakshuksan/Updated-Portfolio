@@ -3,10 +3,10 @@ by Jennifer Detmering
 
 ## Description
 
-<p>This is my responsive portfolio. I compare it to an online resume. My responisve portfolio includes my personal and profesional history and goals. The Portfolio link has links to several projects related to technology, graphic design, and commercial projects. A link is also provided to enable user to contact me for further information.</p>
+<p>This is my updated responsive portfolio. My updated portfolio includes working links, my personal history and resume. My portfolio highlights three projects I am most proud of. I have changed the styling as well of my portfolio.</p>
 
 ## Technologies Used
-HTML, CSS, Bootstrap
+HTML, CSS, Bootstrap, JavaScript, Luxon
 
 ## Installation
 
